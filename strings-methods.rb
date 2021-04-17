@@ -38,3 +38,6 @@ puts "strip ===> #{"  trimed            ".strip}"
 "hello world".delete("l")       #=> "heo word"
 
 "!".prepend("hello, ", "world") #=> "hello, world!"
+
+
+puts "to_s with nil ===> #{nil.to_s}"

@@ -1,0 +1,11 @@
+¿Cuáles son los dos métodos que podemos utilizar para enviar datos a la pantalla del usuario?
+¿Qué es similar entre estos dos métodos de salida?
+¿Qué es diferente entre estos dos métodos de salida?
+¿Cuál es el método que puede utilizar para obtener información del usuario?
+¿Cuál es al menos una diferencia entre los métodos de entrada y salida?
+
+> puts y print
+> que ambos devuelven un x valor por pantalla
+> que uno es in-line y el otro no
+> gets
+> si, que el de salida se ocupa de devolver x valor por pantalla y, el de entrada es utilizado para x accion
